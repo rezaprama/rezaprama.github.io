@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "A value engineering analyst"
   location         : "Indonesia"
-  employer         : "Research Asistant at CEST ITB and CSID UI"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "CEST ITB and CSID UI"
+  pubmed           : ""
+  googlescholar    : ""
   email            : "contact@rezaprama.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "rezaprama.com"
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rezaprama"
-  orcid            : "http://orcid.org/rezaprama"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
