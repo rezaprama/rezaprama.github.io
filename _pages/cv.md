@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education and Work Experience"
+permalink: /edu-work-experience/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Civil Engineering, Institut Teknologi Bandung, 2019
+* M.S. in Infrastructure Management, University of Indonesia, 2022
+* Ph.D in Value Engineering and Innovation, Oxford Brookes University, 2026 (expected)
 
 Work experience
 ======
